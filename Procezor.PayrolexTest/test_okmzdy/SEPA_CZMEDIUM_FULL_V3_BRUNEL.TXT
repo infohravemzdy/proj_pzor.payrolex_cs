@@ -1,0 +1,27 @@
+@220||SEPA_CZMEDIUM_FULL_V3_BRUNEL|C:\PROJ_DOCS\_HOTLINE.2021\ASK_OKSYSTEM\JIRA_10\HAKO\|XML|9|1|SALA|NOT PROVIDED:ABC|4|6|1|25|0|0|0|MCCT06|092112|0920|0|12|14|Brunel_|||1|99|8|CZK|:SEPA:||X|
+@222||CdtTrfTxInf:Amt:InstdAmt|1||3|2|14|52|0|0|4|
+@222||CdtTrfTxInf:Amt:InstdAmt:Ccy|2||3|2|12|52|3|0|1|
+@222||CdtTrfTxInf:PmtId:|3|EndToEndId|3|2|293|52|35|0|1|
+@222||CdtTrfTxInf:CdtrAgt:FinInstnId:|4|BIC|3|2|226|38|8|0|1|
+@222||CdtTrfTxInf:CdtrAcct:Id:IBAN|5||3|2|222|52|0|0|1|
+@222||CdtTrfTxInf:Cdtr:Nm|6||3|2|47|52|35|0|1|
+@222||CdtTrfTxInf:RmtInf:Ustrd|7||3|2|256|53|140|0|1|
+@221||MsgId|1||3|1|213|52|0|0|1|
+@221||CreDtTm|2||3|1|58|52|0|0|54|
+@221||NbOfTxs|3||3|1|11|52|0|0|2|
+@221||InitgPty:Nm|4||3|1|241|52|35|0|1|
+@221||CtrlSum|5||3|1|107|52|0|0|4|
+@221||PmtMtd|6|TRF|3|1|1|52|3|0|1|
+@221||BtchBookg|7|true|3|1|1|52|4|0|1|
+@221||PmtInfId|8||3|1|213|52|20|0|1|
+@221||Dbtr:Nm|9||3|1|241|52|35|0|1|
+@221||Dbtr:PstlAdr:|10|Ctry|3|1|245|52|35|0|1|
+@221||Dbtr:PstlAdr:|11|AdrLine|3|1|242|52|35|0|1|
+@221||Dbtr:PstlAdr:|12|AdrLine|3|1|302|52|35|0|1|
+@221||DbtrAcct:Id:IBAN|13||3|1|227|54|24|0|1|
+@221||DbtrAgt:FinInstnId:BIC|14||3|1|231|54|8|0|1|
+@221||PmtTpInf:SvcLvl:Cd|15||3|1|274|52|4|0|1|
+@221||PmtTpInf:CtgyPurp:Cd|16||3|1|210|52|4|0|1|
+@221||ReqdExctnDt|17||3|1|201|52|0|0|53|
+@221||ChrgBr|18|SLEV|3|1|1|55|4|0|1|
+@221||KonstPracJmeno|19|SALARY|3|1|1|54|14|0|1|

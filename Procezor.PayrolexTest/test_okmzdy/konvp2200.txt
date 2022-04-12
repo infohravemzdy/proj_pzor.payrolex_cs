@@ -1,0 +1,5 @@
+UPDATE PRAC SET vyplatakcs_id=0, vyplataval_id=0  WHERE firma_id=1 AND  ppracovnik_id=1;   
+UPDATE PPOMER_OZP SET stan_pdoba=480, fpracdhod_fpd=9600, pocetprac_fpd=100, odprachod_ph=9600, odpraczps_ph=0, odpracztp_ph=0, neodovhod_ph=0, neodovzps_ph=0, neodovztp_ph=0, neoprehod_ph=0, neoprezps_ph=0, neopreztp_ph=0, neonemhod_ph=0, neonemzps_ph=0, neonemztp_ph=0   WHERE pracovnik_id=1 AND  firma_id=1 AND  cislo_pp=1 AND  mesic=2202;   
+UPDATE PRAC SET vyplatakcs_id=0, vyplataval_id=0  WHERE firma_id=1 AND  ppracovnik_id=1;   
+UPDATE STAV_KONFIG SET konvpkde=42, konvpprac=1  WHERE firma_id=1;   
+UPDATE STAV_KONFIG SET konvpkde=100, konvpprac=0  WHERE firma_id=1;   

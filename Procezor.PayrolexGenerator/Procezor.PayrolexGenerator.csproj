@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>HraveMzdy.Procezor.Generator</RootNamespace>
+    <AssemblyName>Procezor.PayrolexGenerator</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Procezor.Payrolex\Procezor.Payrolex.csproj" />
+  </ItemGroup>
+
+</Project>
